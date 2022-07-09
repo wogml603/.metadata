@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="m_project"/>
+<aop-project name="ajax"/>
+<aop-project name="s_project"/>
+<aop-project name="file"/>
+</aop-reference-model>

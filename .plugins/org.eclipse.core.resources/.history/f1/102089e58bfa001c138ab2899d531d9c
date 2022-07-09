@@ -1,0 +1,5 @@
+package com.care.root.notice.dto;
+
+public class NoticeDTO {
+
+}
